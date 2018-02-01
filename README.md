@@ -15,9 +15,12 @@ With this app you can easily to check the status of your farm / RIG / GPU from t
 
 ## Features
 
-* SSH connetion.
-* Show your rig stats.
-*
+# New features
+
+* SHH connection
+* Connection credentials saver
+* Rig stats
+* Compatible with ARM, X86 & X64 platforms
 
 ## Suggestions
 
@@ -27,7 +30,8 @@ We strongly recommend that you configure your RIG to connect via SSH only from t
 
 Software                          | net35 | net40 | wp8 | uap10.0 |
 --------------------------------- | :---: | :---: | :-: | :-----: |
-Windows Phone SDK 8.0             |       |       | x   |    x    |
+Windows Phone SDK 8.0             |       |       | x   |         |
+Windows Phone SDK 10 Mobile       |       |       |     |    x    |
 Visual Studio 2015 Update 3       | x     | x     | x   |    x    |
 Visual Studio 2018                | x     | x     | x   |    x    |
 
