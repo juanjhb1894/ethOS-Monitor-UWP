@@ -30,7 +30,7 @@ Software                          | net35 | net40 | uap10.0 |
 --------------------------------- | :---: | :---: | :-----: |
 Windows Phone SDK 10              |       |       |    x    |
 Visual Studio 2015 Update 3       | x     | x     |    x    |
-Visual Studio 2018                | x     | x     |    x    |
+Visual Studio 2017 Update 1       | x     | x     |    x    |
 
 ## Contact
 
