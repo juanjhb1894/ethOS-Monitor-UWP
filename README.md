@@ -19,7 +19,18 @@ With this app you can easily to check the status of your farm / RIG / GPU from t
 * Connection credentials saver
 * Rig stats
 * Compatible with ARM, X86 & X64 platforms
+* Simple UI
 
+## Screenshots
+
+### Windows 10 for Mobile
+![Alt text](relative/path/to/img.jpg?raw=true "Login")
+![Alt text](relative/path/to/img.jpg?raw=true "UI Portrai")
+![Alt text](relative/path/to/img.jpg?raw=true "UI Landspace")
+
+### Windows 10 for Desktop
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 ## Suggestions
 
 We strongly recommend that you configure your RIG to connect via SSH only from the local network.
