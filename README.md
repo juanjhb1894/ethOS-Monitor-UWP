@@ -24,6 +24,7 @@ With this app you can easily to check the status of your farm / RIG / GPU from t
 ## Screenshots
 
 ### Windows 10 for Desktop
+![Alt text](http://i66.tinypic.com/2yoq4k6.png?raw=true "Login")
 ![Alt text](http://i63.tinypic.com/2vi1pxi.png?raw=true "UI - Rig Summary")
 ![Alt text](http://i66.tinypic.com/e1dv0x.png?raw=true "UI - GPU Information")
 
