@@ -5,6 +5,8 @@
 
 Monitor your mining rig from your devices with Windows 10 operating system. Developed.
 
+Version Stable: 1.0.0.17.0 - Build 17
+
 ## Introduccion
 
 This application is for monitoring your mining rig based on ethOS with UWP.
@@ -13,13 +15,18 @@ ethOS is a 64-bit linux OS that mines Ethereum, Zcash, Monero, and other GPU-min
 
 With this app you can easily to check the status of your farm / RIG / GPU from this application. You will discover very quickly if there is a RIG that needs your attention or solve problems.
 
-## Features
+# Features
 
 * SHH connection
-* Connection credentials saver
-* Rig stats
-* Compatible with ARM, X86 & X64 platforms
 * Simple UI
+* Rig Summary
+* GPUs Information
+* Compatible with ARM, X86 & X64 platforms
+
+# Note
+
+I hope everybody to enjoy the project. Any issue please report it
+
 
 ## Screenshots
 
