@@ -5,7 +5,7 @@
 
 Monitor your mining rig from your devices with Windows 10 operating system. Developed.
 
-Version Stable: 1.0.0.17.0 - Build 17
+Version Stable: 1.0.0.25.0 - Build 25
 
 ## Introduccion
 
@@ -21,6 +21,7 @@ With this app you can easily to check the status of your farm / RIG / GPU from t
 * Simple UI
 * Rig Summary
 * GPUs Information
+* CPU Information
 * Compatible with ARM, X86 & X64 platforms
 
 # Note
