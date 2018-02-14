@@ -32,7 +32,6 @@ I hope everybody to enjoy the project. Any issue please report it
 ## Screenshots
 
 ### Windows 10 for Desktop
-![Alt text](http://i66.tinypic.com/2yoq4k6.png?raw=true "Login")
 ![Alt text](http://i63.tinypic.com/2d0kh2s.png?raw=true "UI - Rig Summary")
 ![Alt text](http://i68.tinypic.com/70zyhu.png?raw=true "UI - GPU Information")
 ![Alt text](http://i65.tinypic.com/nnwl1h.png?raw=true "UI - CPU Information")
@@ -52,5 +51,5 @@ Visual Studio 2017 Update 1       | x     | x     |    x    |
 
 ## Contact
 
-e-mail: juanjesus1894@hotmail.com or misterj.dev@gmail.com
-Telegram Channel: t.me/ethosmonitoruwp
+* e-mail: juanjesus1894@hotmail.com
+* Telegram Channel: t.me/ethosmonitoruwp
