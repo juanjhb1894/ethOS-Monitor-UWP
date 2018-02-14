@@ -33,8 +33,10 @@ I hope everybody to enjoy the project. Any issue please report it
 
 ### Windows 10 for Desktop
 ![Alt text](http://i66.tinypic.com/2yoq4k6.png?raw=true "Login")
-![Alt text](http://i63.tinypic.com/2vi1pxi.png?raw=true "UI - Rig Summary")
-![Alt text](http://i66.tinypic.com/e1dv0x.png?raw=true "UI - GPU Information")
+![Alt text](http://i63.tinypic.com/2d0kh2s.png?raw=true "UI - Rig Summary")
+![Alt text](http://i68.tinypic.com/70zyhu.png?raw=true "UI - GPU Information")
+![Alt text](http://i65.tinypic.com/nnwl1h.png?raw=true "UI - CPU Information")
+
 
 ## Suggestions
 
